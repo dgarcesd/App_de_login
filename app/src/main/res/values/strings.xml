@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">App de login</string>
+    <string name="entrar">Entrar</string>
+    <string name="practica">Practica 2</string>
+    <string name="email">Email</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="view">ViewComponents</string>
+    <string name="bienvenida">Bienvenido: </string>
 </resources>
